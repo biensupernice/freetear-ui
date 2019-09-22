@@ -48,12 +48,12 @@ const Home = () => {
                                 <div class="jsx-755189093 console white" id="head1">
                                     <pre>
                                         <span class="jsx-4004342434 prompt white">
-                                            <span class="jsx-4004342434 triangle">▲</span> my-site/ </span>now
-                                        <span class="dim">&gt;</span> Deploying <strong>~/ACME/my-site</strong> under <strong>acme</strong> 
-                                        <br /><span class="dim">&gt;</span> Using project <strong>my-site</strong> 
-                                        <br /><span class="dim">&gt;</span> <a target="_blank" rel="noopener noreferrer" href="https://my-site-7q03y4pi5.now.sh/">https://my-site-7q03y4pi5.now.sh/</a> <span class="dim">[v2]</span>
-                                        <br /><span class="dim">&gt;</span> Ready! Deployment complete 
-                                        <br /><span class="dim">-</span> <strong><span class="highlight"><a target="_blank" rel="noopener noreferrer" href="https://my-site.acme.now.sh">https://my-site.acme.now.sh</a></span></strong> <span class="dim">[in clipboard]</span>
+                                            <span class="jsx-4004342434 triangle">▲</span> my-site/ </span>tear init<br />
+                                        <span class="dim">?</span> What type of app will be deploy? <strong>Python App</strong>
+                                        <br /><span class="dim">?</span> What type of resources does your project need
+                                        <br /><span class="dim">&gt;</span> Message Broker Service
+                                        <br /><span class="dim">&gt;</span> Data Store Service
+                                        <br /><span><span class="jsx-4004342434 triangle">▲</span> my-site/ </span>tear deploy<br />
                                         <br /><span class="jsx-4004342434 prompt white"><span class="jsx-4004342434 triangle">▲</span> my-site/ </span><span class="jsx-2460122015 caret"></span>
                                     </pre>
               </div></div></div></aside>
